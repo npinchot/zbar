@@ -8,7 +8,7 @@ The purpose of this repository
 
 This repository is forked from download [https://pypi.python.org/pypi/zbar/0.10](https://pypi.python.org/pypi/zbar/0.10).
 
-Patches `imagescanner.c` to fix crashing (segmentation fault 11) issues with `import zbar` on OS X.
+[Patches `imagescanner.c`](https://github.com/npinchot/zbar/commit/d3c1611ad2411fbdc3e79eb96ca704a63d30ae69) to fix crashing (segmentation fault 11) issues with `import zbar` on OS X.
 
 Patch taken from [http://launchpadlibrarian.net/134768014/zbar_0.10+doc-7build3_0.10+doc-8.diff.gz](http://launchpadlibrarian.net/134768014/zbar_0.10+doc-7build3_0.10+doc-8.diff.gz).
 
