@@ -1,0 +1,64 @@
+Metadata-Version: 1.0
+Name: zbar
+Version: 0.10
+Summary: read barcodes from images or video
+Home-page: http://zbar.sourceforge.net
+Author: Jeff Brown
+Author-email: spadix@users.sourceforge.net
+License: LGPL
+Description: ==========================================
+        zbar -- read barcodes from images or video
+        ==========================================
+        
+        The ZBar Bar Code Reader is a library for scanning and decoding bar
+        codes from various sources such as video streams, image files or raw
+        intensity sensors.  It supports EAN, UPC, Code 128, Code 39 and
+        Interleaved 2 of 5.  These are the Python bindings for the library.
+        
+        Check the ZBar project home page for the latest release, mailing
+        lists, etc.
+        
+        * http://zbar.sourceforge.net/
+        
+        
+        Installation
+        ------------
+        
+        To install this module type the following::
+        
+        python setup.py install
+        
+        Dependencies
+        ------------
+        
+        This module requires the ZBar Bar Code Reader, which may be obtained
+        from:
+        
+        * http://zbar.sourceforge.net/
+        
+        Examples
+        --------
+        
+        TBD
+        
+        Copyright and License
+        ---------------------
+        
+        Licensed under the GNU Lesser General Public License, version 2.1.
+        http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
+        
+        Copyright 2008-2009 (c) Jeff Brown <spadix@users.sourceforge.net>
+        
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Environment :: Console
+Classifier: Environment :: X11 Applications
+Classifier: Environment :: Win32 (MS Windows)
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Unix
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Topic :: Communications
+Classifier: Topic :: Multimedia :: Graphics
+Classifier: Topic :: Software Development :: Libraries
