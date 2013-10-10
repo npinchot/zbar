@@ -12,3 +12,5 @@ This repository is forked from download [https://pypi.python.org/pypi/zbar/0.10]
 
 Patch taken from [http://launchpadlibrarian.net/134768014/zbar_0.10+doc-7build3_0.10+doc-8.diff.gz](http://launchpadlibrarian.net/134768014/zbar_0.10+doc-7build3_0.10+doc-8.diff.gz).
 
+For more information on ZBar, check out the [ZBar homepage](http://zbar.sourceforge.net).
+
